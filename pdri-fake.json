@@ -1,0 +1,46 @@
+{
+    "calon_pemilih": [
+      {
+        "id": 1,
+        "nama_calon": "Bondan Hutapea",
+        "nama_caleg": "Dita Pangestu",
+        "relawan_pengunjung": "Mira Martini",
+        "provinsi": "Jawa Barat",
+        "kab_kota": "Depok",
+        "kec": "Beji",
+        "kel": "Tanah Baru",
+        "RW": 1,
+        "RT": 2,
+        "catatan_kunjungan": "Mendapatkan Stiker",
+        "tanggal_kunjungan_terakhir": "01-01-1990"
+      },
+      {
+        "id": 2,
+        "nama_calon": "Dinda Mirdita",
+        "nama_caleg": "Dita Pangestu",
+        "relawan_pengunjung": "Mira Martini",
+        "provinsi": "Jawa Barat",
+        "kab_kota": "Depok",
+        "kec": "Beji",
+        "kel": "Tanah Baru",
+        "RW": 1,
+        "RT": 1,
+        "catatan_kunjungan": null,
+        "tanggal_kunjungan_terakhir": "01-01-1990"
+      },
+      {
+        "id": 3,
+        "nama_calon": "Johan Lampung",
+        "nama_caleg": "Dita Pangestu",
+        "relawan_pengunjung": "Mira Martini",
+        "provinsi": "Jawa Barat",
+        "kab_kota": "Depok",
+        "kec": "Beji",
+        "kel": "Tanah Baru",
+        "RW": 1,
+        "RT": 7,
+        "catatan_kunjungan": "Kader partai lain",
+        "tanggal_kunjungan_terakhir": "01-01-1990"
+      }
+    ]
+  }
